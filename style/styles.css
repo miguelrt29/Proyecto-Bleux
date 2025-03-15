@@ -104,7 +104,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(/assets/images/imagenes/hojasFondo.jpg);
+  background-image: url(assets/images/imagenes/hojasFondo.jpg);
   width: 100%;
   background-repeat: no-repeat;
   height: 100%;
