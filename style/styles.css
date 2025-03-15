@@ -408,7 +408,7 @@ width:auto;
   .navbar{
     display: flex;
     flex-direction: column;
-    width: 140.7%;
+    width: 141%;
   }
 
   .nav-links{
@@ -419,12 +419,12 @@ width:auto;
     font-size: 17px;
   }
 .morado{
-  width: 140.7%;
+  width: 141%;
 }
 
 .celular{
 padding: 10px 20px;
-width: 140.7%;
+width: 141%;
 }
 
   .terceraparte{
