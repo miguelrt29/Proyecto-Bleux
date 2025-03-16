@@ -440,11 +440,21 @@ width: 141%;
   .parrafo{
     font-size: 12px;
   }
-
-  .finall{
-    width: 131.8%; 
-    padding: 20px 20px;
+  
+  .imaggefin{
+    margin-left: 50px;
   }
+
+  .imaggefin img{
+    height: 30px;
+    margin-block-end: 8px;
+  }
+
+  .final-redes{
+  
+    width: 131.8%; 
+  }
+  
 
 
 
